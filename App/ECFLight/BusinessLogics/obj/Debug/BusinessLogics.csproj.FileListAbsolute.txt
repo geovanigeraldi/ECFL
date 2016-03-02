@@ -1,0 +1,9 @@
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\obj\Debug\BusinessLogics.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\bin\Debug\BusinessLogics.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\bin\Debug\BusinessLogics.pdb
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\bin\Debug\DataAccessObject.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\bin\Debug\DataAccessObject.pdb
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\obj\Debug\BusinessLogics.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\BusinessLogics\obj\Debug\BusinessLogics.pdb

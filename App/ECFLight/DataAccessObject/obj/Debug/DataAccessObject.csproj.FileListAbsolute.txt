@@ -1,0 +1,8 @@
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\bin\Debug\DataAccessObject.dll.config
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\bin\Debug\DataAccessObject.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\bin\Debug\DataAccessObject.pdb
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\obj\Debug\DataAccessObject.dll
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\obj\Debug\DataAccessObject.pdb
+C:\Desenvolvimento\Pessoal\ECFLight_Projeto\App\ECFLight\DataAccessObject\obj\Debug\DataAccessObject.csprojResolveAssemblyReference.cache
